@@ -4,7 +4,7 @@
 
 ![Backend](https://img.shields.io/badge/Backend-Spring%20Boot-green) ![Frontend](https://img.shields.io/badge/Frontend-React.js-blue) ![Database](https://img.shields.io/badge/Database-MySQL-orange) ![AI](https://img.shields.io/badge/AI-Groq%20API-purple)
 
----
+--- 
 
 ## 🚀 Features
 - 🔐 **User Authentication** — Register & Login
